@@ -19,6 +19,7 @@
   "homepage": "https://github.com/adamscura-rs/PixiJsTutorial#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-cli": "^1.4.0"
+    "gulp-cli": "^1.4.0",
+    "gulp-connect": "^5.0.0"
   }
 }
