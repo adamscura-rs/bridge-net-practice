@@ -1,0 +1,19 @@
+{
+  "name": "pixi-js-tutorial",
+  "version": "1.0.0",
+  "description": "Pixi.js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamscura-rs/PixiJsTutorial.git"
+  },
+  "author": "Adam Scura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamscura-rs/PixiJsTutorial/issues"
+  },
+  "homepage": "https://github.com/adamscura-rs/PixiJsTutorial#readme"
+}
